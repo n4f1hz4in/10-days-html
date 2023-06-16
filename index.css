@@ -1,0 +1,21 @@
+html{
+    font-size:22px;
+    /* background-color:white; */
+
+}
+body{
+    background-color:#333;
+    color:white ;
+}
+hr{
+    color:aqua;
+}
+a{
+    color:aliceblue;
+}
+a:visited{
+    color:lightgray;
+}
+a:hover, a:active{
+    color:green;
+}
